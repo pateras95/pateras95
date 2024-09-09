@@ -3,7 +3,8 @@
 **`Senior Front-End Developer`** 
 
 I’m Konstantinos Kalyvas and currently i am leaving in Athens.
-I have a Master degree form the Departemnt of Information nad Communication Systems Enginnering from University of the Aegean (2014-2019) and currently I am in my Second Master degree on National & Kapodistrian University of Athens in Computer And Telecommunications technologies. I've been working since 2019 as a professional Frontend Developer and occasionally as a Full Stack with Rest Full APIs intergrations.
+I have a Master degree form the Departemnt of Information and
+Communication Systems Enginnering from University of the Aegean (2014-2019) and currently I am in my Second Master degree on National & Kapodistrian University of Athens in Computer And Telecommunications technologies. I've been working since 2019 as a professional Frontend Developer and occasionally as a Full Stack with Rest Full APIs intergrations.
 My motivation is to be challenged with projects that require me to work outside my comfort and knowledge set, as continuing to learn new Js frameworks and development techniques & architectures, are important to me.
 
 
