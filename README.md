@@ -9,6 +9,13 @@ My motivation is to be challenged with projects that require me to work outside 
 ---
 ### ⚙️ Language and Tools
 
+ <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg" width="45px"/>
+ <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="45px"/>
+ <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="45px"/>
+ <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="45px"/>
+ <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="45px"/>
+ <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="45px"/>
+ 
 #
 <!--
 **pateras95/pateras95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
