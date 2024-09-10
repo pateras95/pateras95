@@ -1,4 +1,5 @@
-## Hi there 👋
+## ![Black Technology LinkedIn Banner](https://github.com/user-attachments/assets/cbdb339f-62a7-4321-a857-4a8abbdd28c1)
+
 
 **`Senior Front-End Developer`** 
 
