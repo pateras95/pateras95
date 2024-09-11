@@ -28,10 +28,12 @@ My motivation is to be challenged with projects that require me to work outside 
  <br/>
 
 ### ⚙️ Tools
+<div margin-top="15">
  <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="45px"/>
  <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45px"/>
  <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" width="45px"/>
  <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yarn/yarn-original.svg" width="45px"/>
+</div>
 
  <br/>
  <br/>
