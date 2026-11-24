@@ -11,8 +11,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/konstantinos-kalivas/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:kostasmc2@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=pateras95&style=for-the-badge&color=ff6e96&label=Profile+views" />
 </p>
 
@@ -20,15 +20,28 @@
 
 ## 🧑‍💻 About me
 
-I'm a **Senior Front-End Developer** based in **Athens, Greece**, building production web applications professionally since **2019**. My focus is modern JavaScript frameworks — mainly **Vue / Nuxt** and **React** — and when a project calls for it I work across the stack with **Java / Spring** back-ends and **RESTful API** integrations.
+I'm a **Senior Front-End Developer** based in **Athens, Greece**, building production web applications professionally since **2019** (and freelancing since 2016). My focus is modern JavaScript frameworks — mainly **Vue / Nuxt** and **React** — and I also build **Android** apps. When a project calls for it I work across the stack with **Java / Spring** back-ends and **RESTful API** integrations.
 
 What drives me is being challenged by projects that push me outside my comfort zone. Continuously learning new frameworks, development techniques and architectures is a big part of why I love this job.
 
-- 🔭 Currently working as a Front-End Developer at **MPASS**
-- 🎓 Currently pursuing my **second Master's degree** in Computer & Telecommunications Technologies
+- 🔭 Currently Frontend & Android Developer at **MPASS Ltd** (since 2019)
+- 🎓 Holder of **two Master's degrees** — ICT Systems Engineering & Computer and Telecommunications Technologies
+- ☁️ **AWS Academy Cloud Foundations** graduate
 - 🌱 Always exploring new JS frameworks, front-end architecture and performance patterns
 - 🤝 Open to collaborating on interesting front-end / full-stack projects
-- 💬 Ask me about **Vue, Nuxt, React, Tailwind, REST API integrations**
+- 🤖 Using AI tools (Claude Code, ChatGPT/Codex, GitHub Copilot) daily to ship faster
+- 💬 Ask me about **Vue, Nuxt, React, Tailwind, Android, REST API integrations**
+
+---
+
+## 💼 Experience
+
+| Role | Company | Period |
+|---|---|---|
+| 🟢 **Frontend Developer & Android Developer** | MPASS Ltd · Greece | Jan 2020 – Present |
+| **Frontend Developer** | Greek Army · Athens (on-site) | Aug 2024 – Jul 2025 |
+| **Android / Backend Developer** | MPASS Ltd · Greece | Jul 2019 – Jan 2020 |
+| **Freelance Developer** (React Native & web) | Freelancer.com · Remote | Feb 2016 – Jul 2018 |
 
 ---
 
@@ -36,41 +49,56 @@ What drives me is being challenged by projects that push me outside my comfort z
 
 | Degree | Institution | Years |
 |---|---|---|
-| 🎓 **M.Sc. Computer & Telecommunications Technologies** *(in progress)* | National & Kapodistrian University of Athens | — present |
-| 🎓 **Integrated Master's (Diploma), Information & Communication Systems Engineering** | University of the Aegean | 2014 – 2019 |
+| 🎓 **M.Sc. Computer & Telecommunications Technologies** | National & Kapodistrian University of Athens | 2020 – 2022 |
+| 🎓 **Integrated Master's, Information & Communication Systems Engineering** | University of the Aegean | 2014 – 2019 |
+
+---
+
+## 📜 Certifications
+
+<p>
+  <img src="https://img.shields.io/badge/Udemy-Vue_–_The_Complete_Guide_(Router_%26_Composition_API)_·_2024-A435F0?style=for-the-badge&logo=udemy&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/AWS_Academy-Cloud_Foundations_·_2021-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+</p>
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Front-End**
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" title="Vue.js" width="42" height="42" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxtjs/nuxtjs-original.svg" title="Nuxt" width="42" height="42" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" title="React" width="42" height="42" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript" width="42" height="42" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="HTML5" width="42" height="42" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title="CSS3" width="42" height="42" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS" width="42" height="42" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" width="42" height="42" />
+#### 🎨 Front-End
+<p align="left">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vue,nuxtjs,react,js,html,css,tailwind,bootstrap,vite&perline=9" /></a>
 </p>
 
-**Back-End & Languages**
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" title="Java" width="42" height="42" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" title="Spring" width="42" height="42" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" width="42" height="42" />&nbsp;
-  <img src="https://img.shields.io/badge/REST_APIs-02569B?style=flat-square&logo=postman&logoColor=white" title="RESTful APIs" height="42" />
+#### ⚙️ Back-End & Languages
+<p align="left">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,spring,py,php&perline=9" /></a>
 </p>
 
-**Tools & DevOps**
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="Git" width="42" height="42" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" title="Linux" width="42" height="42" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" title="Jenkins" width="42" height="42" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" title="npm" width="42" height="42" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yarn/yarn-original.svg" title="Yarn" width="42" height="42" />
+#### 📱 Mobile
+<p align="left">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=androidstudio,react&perline=9" /></a>
 </p>
+
+#### ☁️ Cloud, Tools & DevOps
+<p align="left">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws,git,github,linux,jenkins,npm,yarn,postman,figma&perline=9" /></a>
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Pinia-FFD859?style=flat-square&logo=pinia&logoColor=black" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/RESTful_APIs-02569B?style=flat-square" />
+</p>
+
+#### 🤖 AI-Powered Development
+<p align="left">
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChatGPT_·_Codex-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" />
+</p>
+
 
 ---
 
