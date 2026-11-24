@@ -1,66 +1,94 @@
-## ![Black Technology LinkedIn Banner](https://github.com/user-attachments/assets/cbdb339f-62a7-4321-a857-4a8abbdd28c1)
+<!-- Banner -->
+![Konstantinos Kalyvas – Senior Front-End Developer](https://github.com/user-attachments/assets/cbdb339f-62a7-4321-a857-4a8abbdd28c1)
 
+<h1 align="center">Hi there, I'm Konstantinos Kalyvas 👋</h1>
+<h3 align="center">Senior Front-End Developer · Vue / Nuxt / React · Occasional Full-Stack</h3>
 
-**`Senior Front-End Developer`** 
+<p align="center">
+  <img src="https://img.shields.io/badge/📍_Athens,_Greece-1f2937?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/💼_7+_years_experience-1f2937?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🏢_@_MPASS-1f2937?style=for-the-badge" />
+</p>
 
-I’m Konstantinos Kalyvas and currently i am leaving in Athens.
-I have a Master degree form the Departemnt of Information and
-Communication Systems Enginnering from University of the Aegean (2014-2019) and currently I am in my Second Master degree on National & Kapodistrian University of Athens in Computer And Telecommunications technologies. I've been working since 2019 as a professional Frontend Developer and occasionally as a Full Stack with Rest Full APIs intergrations.
-My motivation is to be challenged with projects that require me to work outside my comfort and knowledge set, as continuing to learn new Js frameworks and development techniques & architectures, are important to me.
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=pateras95&style=for-the-badge&color=ff6e96&label=Profile+views" />
+</p>
 
 ---
-### </> Programming Languages
- <div margin-top="15">
-  <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg" width="45px"/>
-  <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxtjs/nuxtjs-original.svg" width="45px" />
-  <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="45px"/>
-  <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="45px"/>
-  <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="45px"/>
-  <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="45px"/>
-  <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="45px"/>
-  <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="45px"/>
-  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" width="45px"/>
-  <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="45px"/>
-  <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="45px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45px"/>
- </div>
 
- <br/>
- <br/>
+## 🧑‍💻 About me
 
-### ⚙️ Tools
-<div margin-top="15">
- <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="45px"/>
- <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45px"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" width="45px"/>
- <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" width="45px"/>
- <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yarn/yarn-original.svg" width="45px"/>
-</div>
+I'm a **Senior Front-End Developer** based in **Athens, Greece**, building production web applications professionally since **2019**. My focus is modern JavaScript frameworks — mainly **Vue / Nuxt** and **React** — and when a project calls for it I work across the stack with **Java / Spring** back-ends and **RESTful API** integrations.
 
- <br/>
- <br/>
- 
+What drives me is being challenged by projects that push me outside my comfort zone. Continuously learning new frameworks, development techniques and architectures is a big part of why I love this job.
+
+- 🔭 Currently working as a Front-End Developer at **MPASS**
+- 🎓 Currently pursuing my **second Master's degree** in Computer & Telecommunications Technologies
+- 🌱 Always exploring new JS frameworks, front-end architecture and performance patterns
+- 🤝 Open to collaborating on interesting front-end / full-stack projects
+- 💬 Ask me about **Vue, Nuxt, React, Tailwind, REST API integrations**
+
 ---
 
+## 🎓 Education
 
- ### 📊 Projects & Repositories Overview
- <div align="center" href="https://github.com/anuraghazra/github-readme-stats">
-  <img width=900 height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=pateras95&show_icons=true&rank_icon=github&theme=radical" />
-</div>
-<!--  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pateras95&show_icons=true&rank_icon=github&theme=radical) -->
+| Degree | Institution | Years |
+|---|---|---|
+| 🎓 **M.Sc. Computer & Telecommunications Technologies** *(in progress)* | National & Kapodistrian University of Athens | — present |
+| 🎓 **Integrated Master's (Diploma), Information & Communication Systems Engineering** | University of the Aegean | 2014 – 2019 |
 
-<!--
-**pateras95/pateras95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Front-End**
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" title="Vue.js" width="42" height="42" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxtjs/nuxtjs-original.svg" title="Nuxt" width="42" height="42" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" title="React" width="42" height="42" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript" width="42" height="42" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="HTML5" width="42" height="42" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title="CSS3" width="42" height="42" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS" width="42" height="42" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" width="42" height="42" />
+</p>
+
+**Back-End & Languages**
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" title="Java" width="42" height="42" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" title="Spring" width="42" height="42" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" width="42" height="42" />&nbsp;
+  <img src="https://img.shields.io/badge/REST_APIs-02569B?style=flat-square&logo=postman&logoColor=white" title="RESTful APIs" height="42" />
+</p>
+
+**Tools & DevOps**
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="Git" width="42" height="42" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" title="Linux" width="42" height="42" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" title="Jenkins" width="42" height="42" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" title="npm" width="42" height="42" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yarn/yarn-original.svg" title="Yarn" width="42" height="42" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=pateras95&show_icons=true&rank_icon=github&theme=radical&hide_border=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pateras95&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=pateras95&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=pateras95&theme=react-dark&hide_border=true&area=true" />
+</p>
+
+---
+
+<p align="center"><i>“Stay curious, keep shipping.”</i> 🚀</p>
