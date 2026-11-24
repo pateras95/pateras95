@@ -20,14 +20,67 @@ I'm drawn to projects that take me outside my comfort zone, and I treat learning
 
 ### Tech Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=vue,nuxtjs,react,js,html,css,tailwind,bootstrap,vite&theme=dark" /><br/>
-  <img src="https://skillicons.dev/icons?i=java,spring,py,php,androidstudio,aws,linux,jenkins,git&theme=dark" /><br/>
-  <img src="https://skillicons.dev/icons?i=github,npm,yarn,postman,figma&theme=dark" />
-</p>
-
-**Also:** Pinia · React Native · REST APIs  
-**AI tooling:** Claude Code · ChatGPT / Codex · GitHub Copilot
+<table>
+  <tr>
+    <td width="140"><b>Front-End</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Vue.js-21262d?style=flat-square&logo=vuedotjs&logoColor=4FC08D" />
+      <img src="https://img.shields.io/badge/Nuxt-21262d?style=flat-square&logo=nuxt&logoColor=00DC82" />
+      <img src="https://img.shields.io/badge/React-21262d?style=flat-square&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/JavaScript-21262d?style=flat-square&logo=javascript&logoColor=F7DF1E" />
+      <img src="https://img.shields.io/badge/HTML5-21262d?style=flat-square&logo=html5&logoColor=E34F26" />
+      <img src="https://img.shields.io/badge/CSS3-21262d?style=flat-square&logo=css&logoColor=1572B6" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-21262d?style=flat-square&logo=tailwindcss&logoColor=06B6D4" />
+      <img src="https://img.shields.io/badge/Bootstrap-21262d?style=flat-square&logo=bootstrap&logoColor=7952B3" />
+      <img src="https://img.shields.io/badge/Pinia-21262d?style=flat-square&logo=pinia&logoColor=FFD859" />
+      <img src="https://img.shields.io/badge/Vite-21262d?style=flat-square&logo=vite&logoColor=646CFF" />
+    </td>
+  </tr>
+  <tr>
+    <td width="140"><b>Back-End</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Java-21262d?style=flat-square&logo=openjdk&logoColor=ED8B00" />
+      <img src="https://img.shields.io/badge/Spring-21262d?style=flat-square&logo=spring&logoColor=6DB33F" />
+      <img src="https://img.shields.io/badge/Python-21262d?style=flat-square&logo=python&logoColor=3776AB" />
+      <img src="https://img.shields.io/badge/PHP-21262d?style=flat-square&logo=php&logoColor=777BB4" />
+      <img src="https://img.shields.io/badge/REST_APIs-21262d?style=flat-square&logo=swagger&logoColor=85EA2D" />
+    </td>
+  </tr>
+  <tr>
+    <td width="140"><b>Mobile</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Android-21262d?style=flat-square&logo=android&logoColor=3DDC84" />
+      <img src="https://img.shields.io/badge/React_Native-21262d?style=flat-square&logo=react&logoColor=61DAFB" />
+    </td>
+  </tr>
+  <tr>
+    <td width="140"><b>Cloud & DevOps</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/AWS-21262d?style=flat-square&logo=amazonwebservices&logoColor=FF9900" />
+      <img src="https://img.shields.io/badge/Linux-21262d?style=flat-square&logo=linux&logoColor=FCC624" />
+      <img src="https://img.shields.io/badge/Jenkins-21262d?style=flat-square&logo=jenkins&logoColor=D24939" />
+      <img src="https://img.shields.io/badge/Git-21262d?style=flat-square&logo=git&logoColor=F05032" />
+      <img src="https://img.shields.io/badge/GitHub-21262d?style=flat-square&logo=github&logoColor=FFFFFF" />
+    </td>
+  </tr>
+  <tr>
+    <td width="140"><b>Tooling</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/npm-21262d?style=flat-square&logo=npm&logoColor=CB3837" />
+      <img src="https://img.shields.io/badge/Yarn-21262d?style=flat-square&logo=yarn&logoColor=2C8EBB" />
+      <img src="https://img.shields.io/badge/Postman-21262d?style=flat-square&logo=postman&logoColor=FF6C37" />
+      <img src="https://img.shields.io/badge/Figma-21262d?style=flat-square&logo=figma&logoColor=F24E1E" />
+    </td>
+  </tr>
+  <tr>
+    <td width="140"><b>AI</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Claude_Code-21262d?style=flat-square&logo=claude&logoColor=D97757" />
+      <img src="https://img.shields.io/badge/ChatGPT_·_Codex-21262d?style=flat-square&logo=openai&logoColor=FFFFFF" />
+      <img src="https://img.shields.io/badge/GitHub_Copilot-21262d?style=flat-square&logo=githubcopilot&logoColor=FFFFFF" />
+    </td>
+  </tr>
+</table>
 
 ### Experience
 
@@ -55,11 +108,4 @@ I'm drawn to projects that take me outside my comfort zone, and I treat learning
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=pateras95&show_icons=true&count_private=true&hide_border=true&theme=github_dark&hide_rank=true" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pateras95&layout=compact&langs_count=6&hide_border=true&theme=github_dark" />
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pateras95/pateras95/output/github-snake-dark.svg" />
-    <img alt="contribution snake" src="https://raw.githubusercontent.com/pateras95/pateras95/output/github-snake.svg" />
-  </picture>
 </p>
