@@ -1,7 +1,10 @@
 <!-- ═══════════════════════════  HEADER  ═══════════════════════════ -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24c6dc&height=220&section=header&text=Konstantinos%20Kalyvas&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Senior%20Front-End%20Developer%20%E2%80%A2%20Athens%2C%20Greece&descSize=18&descAlignY=58&animation=fadeIn" />
+  <img width="100%" src="https://github.com/user-attachments/assets/cbdb339f-62a7-4321-a857-4a8abbdd28c1" alt="Konstantinos Kalyvas – Senior Front-End Developer" />
 </p>
+
+<h1 align="center">Hi, I'm Konstantinos Kalyvas <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="36" /></h1>
+<h3 align="center">Senior Front-End Developer · Athens, Greece 🇬🇷</h3>
 
 <p align="center">
   <a href="https://github.com/pateras95">
@@ -19,7 +22,7 @@
 <br/>
 
 <!-- ═══════════════════════════  ABOUT  ═══════════════════════════ -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="32" /> About me
+## 🧑‍💻 About me
 
 I'm a **Senior Front-End Developer** from **Athens, Greece** 🇬🇷 with **7+ years** of professional experience building production web apps — mostly with **Vue / Nuxt** and **React** — plus **Android** apps and, when needed, **Java / Spring** back-ends with **RESTful API** integrations.
 
@@ -166,5 +169,5 @@ const konstantinos = {
 
 <!-- ═══════════════════════════  FOOTER  ═══════════════════════════ -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24c6dc,50:302b63,100:0f0c29&height=120&section=footer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3500&pause=1000&color=8B949E&center=true&vCenter=true&width=500&lines=Thanks+for+stopping+by!+%F0%9F%91%8B;Stay+curious%2C+keep+shipping+%F0%9F%9A%80" alt="Thanks for visiting" />
 </p>
